@@ -1,10 +1,10 @@
-# MyAPIsAI
+# MyAPIs
 
 **One API. A World of AI Models.**
 
 Connect once. Build with the AI models you choose.
 
-MyAPIsAI develops infrastructure for integrating, routing, and managing AI model APIs. Our goal is to make multi-provider AI integrations easier to build, deploy, and operate.
+MyAPIs develops infrastructure for integrating, routing, and managing AI model APIs. Our goal is to make multi-provider AI integrations easier to build, deploy, and operate.
 
 ## Featured Project: StarHub
 
